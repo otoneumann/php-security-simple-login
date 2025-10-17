@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+/* navbar */
+.navbar {
+    background-color: rgba(0,0,0,0.8);
+}
+
+/* hero */
+.hero {
+    height: 100vh;
+    background: url("../images/1img.png") no-repeat center center/cover;
+}
+
+.hero-content {
+    max-width: 700px;
+}
